@@ -19,5 +19,5 @@ ScrumAcolyte is discord bot to help your team collaborate easily, help with chec
 # To initialize the bot and its command
 
 - Executer dans l'invité de commande : ```node deploy_commands.js``` pour initialisé le bot et ses commandes
-- Une fois terminée, executer : ```node index.js``` et votre bot sera connecter :)!
+- Une fois terminée, executer : ```node index.js``` et votre bot sera connecté :)!
 
