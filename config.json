@@ -1,0 +1,8 @@
+{
+
+  //faut activer le mode developpeur de discord.
+  "token": "TON TOKEN DE BOT",
+  "clientId": "TON ID DE COMPTE",
+  "guildId": "TON ID DE SERVEUR"
+
+}
